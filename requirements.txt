@@ -3,3 +3,4 @@ vosk
 pyaudio
 transformers
 pyttsx3
+sentencepiece
