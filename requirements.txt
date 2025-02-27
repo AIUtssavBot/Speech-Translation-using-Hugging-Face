@@ -1,0 +1,5 @@
+streamlit
+vosk
+pyaudio
+transformers
+pyttsx3
